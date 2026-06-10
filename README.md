@@ -1,15 +1,7 @@
 
  
-### Turning my creative sparks into intelligent systems.
+*Turning my creative sparks into intelligent systems.*
  
-I build out of curiosity and necessity. • Deep learning  • LLMs  • agents   • FastAPI.
+*I build out of Curiosity and necessity.&nbsp;&nbsp;&nbsp; • __Deep Learning__ &nbsp;&nbsp;&nbsp;  • __LLMs__ &nbsp;&nbsp;&nbsp; • __Agents__ &nbsp;&nbsp;&nbsp; • __FastAPI__.*
 
-Exploring ideas, shipping solutions, and learning in public.
-
- 
-
- 
-[Email](mailto:nitindave2111@gmail.com) ·
-[X](https://twitter.com/NitinDave77) ·
-[LinkedIn](https://www.linkedin.com/in/nitindave/)
- 
+*Exploring ideas, shipping solutions, and learning in public.*
