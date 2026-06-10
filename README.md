@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**nitindavegit/nitindavegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Nitin Dave
+ 
+Turning my creative sparks into intelligent systems.
+ 
+I build out of curiosity and necessity. deep learning, LLMs, agents | FastAPI.
+ 
+the work is the answer.
+ 
+---
+ 
+nitindave2111@gmail.com &nbsp;·&nbsp; [x](https://twitter.com/NitinDave77) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/nitindave/)
+ 
